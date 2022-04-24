@@ -1,7 +1,7 @@
 import React from "react";
 // import { useState } from "react";
 import "./Form.css";
-import useCustom from "./customHook/useCustom";
+import useCustom from "./useCustom";
 import { useState } from "react";
 
 let RegEx = /^[a-z0-9 ]+$/i;
